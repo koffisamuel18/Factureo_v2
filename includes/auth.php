@@ -1,0 +1,12 @@
+<?php
+// includes/auth.php
+session_start();
+// Désactive le cache navigateur pour les pages protégées
+header('Cache-Control: no-store, no-cache, must-revalidate, max-age=0');
+header('Cache-Control: post-check=0, pre-check=0', false);
+header('Pragma: no-cache');
+header('Expires: 0');
+if (!isset($_SESSION['admin_id'])) {
+    header('Location: login.php');
+    exit;
+} 
