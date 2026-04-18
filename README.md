@@ -114,3 +114,4 @@ Pour toute question ou contribution, contactez l’équipe Factureo.
 - includes/ : entête, pied de page, navbar, auth
 - pages/ : toutes les pages principales (login, dashboard, clients, etc.)
 - vendor/ : librairies externes (FPDF) 
+- test jenkins pipeline
