@@ -116,3 +116,4 @@ Pour toute question ou contribution, contactez l’équipe Factureo.
 - vendor/ : librairies externes (FPDF) 
 - test jenkins pipeline
 TEST VS CODE VM OK - CI/CD Factureo v1
+test v2
