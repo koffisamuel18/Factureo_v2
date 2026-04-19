@@ -34,3 +34,16 @@ Thumbs.db
 # =====================
 .vscode/
 .idea/
+
+# vendor (bibliothèques PHP)
+vendor/
+
+# logs et cache
+*.log
+cache/
+
+# uploads si tu en as
+uploads/
+
+# terraform state
+terraform/.terraform/
