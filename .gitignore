@@ -1,0 +1,36 @@
+# =====================
+# DEPENDANCES
+# =====================
+vendor/
+node_modules/
+
+# =====================
+# ENV / CONFIG
+# =====================
+.env
+
+# =====================
+# LOGS
+# =====================
+*.log
+
+# =====================
+# TERRAFORM
+# =====================
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
+
+# =====================
+# SYSTEM
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# IDE
+# =====================
+.vscode/
+.idea/
