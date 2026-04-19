@@ -115,3 +115,4 @@ Pour toute question ou contribution, contactez l’équipe Factureo.
 - pages/ : toutes les pages principales (login, dashboard, clients, etc.)
 - vendor/ : librairies externes (FPDF) 
 - test jenkins pipeline
+TEST VS CODE VM OK - CI/CD Factureo v1
