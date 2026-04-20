@@ -117,3 +117,5 @@ Pour toute question ou contribution, contactez l’équipe Factureo.
 - test jenkins pipeline
 TEST VS CODE VM OK - CI/CD Factureo v1
 test v2
+
+test v3 modification
