@@ -45,7 +45,7 @@ session_start();
             <div class="home-desc">
                 <span class="hero-slogan">La facturation professionnelle, simple et rapide.</span><br>
                 Solution moderne de gestion de facturation pour entrepreneurs, PME et indépendants.<br>
-                Créez, gérez et suivez vos clients, produits, devis et factures en toute simplicité.
+                Créez, gérez et suivez vos clients, produits, devis et factures en toute simplicité. test t1
             </div>
             <a href="#services" class="home-btn">Découvrir les services</a>
         </div>
